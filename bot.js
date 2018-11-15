@@ -26,7 +26,7 @@ const db = new Database();
 db.init()
 .then(() => {
   // Log into Discord
-  bot.login(token);
+  bot.login(robHsiIMDkuDEKw-so6R-NyjJZQi0IUj);
 })
 .catch(winston.error);
 
